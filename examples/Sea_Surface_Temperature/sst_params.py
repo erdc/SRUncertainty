@@ -1,0 +1,11 @@
+dataset = 'sst.wkmean'
+input_rows = 256
+input_cols = 512
+input_features = 2
+target_features = 1
+sensor_list = [100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400]
+#sensor_list = [100, 400]
+ensembles = 100
+epochs = 500
+batch_size = 4
+noise_std = 0.0

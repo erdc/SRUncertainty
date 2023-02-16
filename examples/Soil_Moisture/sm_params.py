@@ -1,0 +1,10 @@
+dataset = 'SoMo'
+input_rows = 256
+input_cols = 512
+target_features = 3
+input_features = target_features + 1
+sensor_list = [100, 121, 144, 169, 196, 225, 256, 289, 324, 361, 400]
+ensembles = 400
+epochs = 500
+batch_size = 4
+noise_std = 0.0
