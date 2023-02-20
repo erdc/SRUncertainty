@@ -1,5 +1,3 @@
-# SRUncertainty
-
 ## Super-resolution and Uncertainty Estimation from Sparse Sensors of Dynamical Physical Systems
 
 This is supporting code for the article
@@ -21,9 +19,9 @@ Super-resolution framework
 ## Getting Started
 
 * Download the relevant datasets from the following links and save them in respective subdirectories under the `data` directory.
-- [Link](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset) for the mean flow dataset. Individual cases to be saved as `data/kepsilon`, `data/komega` etc.
-- [Link](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.html) for the NOAA Optimal SST dataset. To be saved in `data/noaa`.
-- [Link](https://doi.org/10.6084/m9.figshare.c.5142185.v1) for the global soil moisture dataset. To be saved in `data/sm`.
+  - [Link](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset) for the mean flow dataset. Individual cases to be saved as `data/kepsilon`, `data/komega` etc.
+  - [Link](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.html) for the NOAA Optimal SST dataset. To be saved in `data/noaa/`.
+  - [Link](https://doi.org/10.6084/m9.figshare.c.5142185.v1) for the global soil moisture dataset. To be saved in `data/sm/`.
 * The first run for each example generates relevant tessellated fields and saves them in subdirectories under `data/npy/`.
 
 ### Dependencies
