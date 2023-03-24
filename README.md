@@ -2,9 +2,7 @@
 
 This is supporting code for the article
 ```
-Collins, A.M.; Rivera-Casillas, P.; Dutta, S.; Cecil, O.M.; Trautz, A.C.; Farthing, M.W.
-Super-resolution and uncertainty estimation from sparse sensors of dynamical physical systems.
-Frontiers in Water, 2023, (Under Review)
+Collins, A. M., Rivera-Casillas, P., Dutta, S., Cecil, O. M., Trautz, A. C., &#38; Farthing, M. W. (2023). Super-resolution and uncertainty estimation from sparse sensors of dynamical physical systems. Fontiers in Water,5, 1137110. https://doi.org/10.3389/frwa.2023.1137110
 ```
 
 Email: adam.m.collins@erdc.dren.mil for any questions/feedback.
